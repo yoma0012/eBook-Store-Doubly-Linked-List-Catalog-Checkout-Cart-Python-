@@ -67,17 +67,26 @@ The application allows users to add, search, and remove books from the catalog, 
 
 1. Clone the repository
 2. Run 
-🧠 What I Learned
+
+---
+
+## 🧠 What I Learned
 Implementing a doubly linked list from scratch in Python
 Using a stack to model a checkout cart
 Designing and navigating menu-driven console applications
 Handling basic user input and validation
 Structuring code using classes and methods
-📌 Possible Future Improvements
+
+---
+
+## 📌 Possible Future Improvements
 Persist catalog data to a file or database
 Associate cart items directly with catalog nodes instead of titles only
 Add total price calculation for the cart
 Add sorting options for catalog (by title, author, or price)
 Introduce a simple user account system
-📄 License
+
+---
+
+## 📄 License
 This project is available for educational and portfolio use.
